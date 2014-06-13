@@ -1,0 +1,10 @@
+{
+	"name": "libvpx",
+	"description": "D port of webm libvpx.",
+	"authors": ["scott"],
+	"license" : "Boost",
+	"targetType" : "library",
+	"libs" : ["vpx"],
+	"dependencies": {
+	}
+}
