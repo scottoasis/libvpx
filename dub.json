@@ -3,7 +3,7 @@
 	"description": "D port of webm libvpx.",
 	"authors": ["scott"],
 	"license" : "Boost",
-	"targetType" : "library",
+	"targetType" : "sourceLibrary",
 	"libs" : ["vpx"],
 	"dependencies": {
 	}
